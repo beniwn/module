@@ -9,5 +9,5 @@ func GetData() string  {
 }
 
 func GetCustomer(kode int, name string) {
-	return kode, name
+	
 }
