@@ -7,3 +7,7 @@ func GetUser() string {
 func GetData() string  {
 	return "Module untuk mengambil data karyawan "
 }
+
+func GetCustomer(kode int, name string) {
+	return kode, name
+}
