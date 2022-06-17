@@ -8,6 +8,6 @@ func GetData() string  {
 	return "Module untuk mengambil data karyawan "
 }
 
-func GetCustomer(kode int, name string) {
-	
+func GetCustomer( name string) string {
+	return "Name" + name
 }
